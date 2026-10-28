@@ -1,0 +1,16 @@
+{
+  "name": "b1-amali",
+  "version": "1.0.0",
+  "private": true,
+  "description": "German B1 speaking practice: offline-first PWA for Arabic speakers",
+  "scripts": {
+    "start": "npx serve public",
+    "build:content": "node tools/build-content.mjs",
+    "build:icons": "node tools/build-icons.mjs",
+    "test": "node --test \"tests/unit/*.test.mjs\"",
+    "test:e2e": "node tests/e2e/run.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

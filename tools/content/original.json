@@ -1,0 +1,2303 @@
+{
+ "source": "b1-offline.html",
+ "sha256": "a47478a019250120732b4986633d2196a5e2babc4d540b2c0e27eb52d534d1b8",
+ "extracted": "2026-10-25T17:04:11.968Z",
+ "weeks": [
+  {
+   "title": "الجمل الفرعية",
+   "topic": "العائلة والأصدقاء والسكن",
+   "days": [
+    {
+     "t": "weil و dass",
+     "note": "weil = لأنّ، dass = أنّ. بعدهم الفعل المصرّف بيروح للآخر، وقبلهم دايماً فاصلة.",
+     "s": [
+      [
+       "Ich bleibe heute zu Hause, *weil* ich Fieber *habe*.",
+       "بضل اليوم بالبيت لأنو عندي حرارة."
+      ],
+      [
+       "Meine Schwester ruft mich jeden Abend an, *weil* sie sich Sorgen um mich *macht*.",
+       "أختي بتتصل فيني كل مسا لأنها بتخاف عليّ."
+      ],
+      [
+       "Ich glaube, *dass* meine Eltern stolz auf mich *sind*.",
+       "بعتقد إنو أهلي فخورين فيني."
+      ],
+      [
+       "Mein Bruder wohnt in Hamburg, *weil* er dort eine gute Arbeit *gefunden hat*.",
+       "أخي ساكن بهامبورغ لأنو لقى هناك شغل منيح."
+      ],
+      [
+       "Ich finde, *dass* die Familie sehr wichtig *ist*.",
+       "بلاقي إنو العيلة كتير مهمة."
+      ],
+      [
+       "Sie sagt, *dass* sie am Wochenende ihre Großeltern besuchen *will*.",
+       "بتقول إنها بدها تزور جدودها بنهاية الأسبوع."
+      ],
+      [
+       "Wir feiern heute, *weil* mein Neffe Geburtstag *hat*.",
+       "منحتفل اليوم لأنو ابن أخي عنده عيد ميلاد."
+      ],
+      [
+       "Ich hoffe, *dass* du mich bald in Berlin *besuchst*.",
+       "بتمنى إنك تزورني قريباً ببرلين."
+      ],
+      [
+       "Meine Tante ist traurig, *weil* ihre Kinder so weit weg *wohnen*.",
+       "عمتي حزينة لأنو ولادها ساكنين بعيد هالقد."
+      ],
+      [
+       "Es ist schön, *dass* wir uns jeden Sonntag *sehen*.",
+       "حلو إنو منشوف بعض كل يوم أحد."
+      ]
+     ]
+    },
+    {
+     "t": "wenn و als",
+     "note": "wenn للمضارع والتكرار (لما / إذا / كل ما)، و als لموقف بالماضي صار مرة وحدة.",
+     "s": [
+      [
+       "*Wenn* ich Zeit *habe*, rufe ich meine Mutter an.",
+       "لما يكون عندي وقت بتصل بأمي."
+      ],
+      [
+       "*Als* ich ein Kind *war*, habe ich viel draußen gespielt.",
+       "لما كنت ولد كنت العب كتير برا."
+      ],
+      [
+       "*Wenn* es *regnet*, bleiben wir zu Hause.",
+       "إذا شتّت منضل بالبيت."
+      ],
+      [
+       "*Als* ich nach Deutschland *kam*, konnte ich kaum Deutsch sprechen.",
+       "لما إجيت على ألمانيا بالكاد كنت اقدر احكي ألماني."
+      ],
+      [
+       "*Wenn* ich müde *bin*, trinke ich einen starken Kaffee.",
+       "لما بكون تعبان بشرب قهوة قوية."
+      ],
+      [
+       "*Als* wir gestern *ankamen*, war das Haus schon dunkel.",
+       "لما وصلنا مبارح كان البيت معتّم."
+      ],
+      [
+       "*Wenn* du Hilfe *brauchst*, sag mir bitte Bescheid.",
+       "إذا بتحتاج مساعدة خبرني لو سمحت."
+      ],
+      [
+       "*Als* mein Vater jung *war*, hat er in einer Fabrik gearbeitet.",
+       "لما كان أبي شاب كان يشتغل بمعمل."
+      ],
+      [
+       "Immer *wenn* ich ihn *sehe*, muss ich lachen.",
+       "كل ما بشوفه لازم ضحك."
+      ],
+      [
+       "*Als* ich gestern nach Hause *ging*, hat es plötzlich angefangen zu regnen.",
+       "لما كنت رايح عالبيت مبارح بلشت تشتي فجأة."
+      ]
+     ]
+    },
+    {
+     "t": "obwohl و damit",
+     "note": "obwohl = رغم أنّ (عكس المتوقع)، damit = لحتى (هدف). والفعل بعدهم للآخر.",
+     "s": [
+      [
+       "*Obwohl* ich müde *bin*, gehe ich noch ins Fitnessstudio.",
+       "رغم إني تعبان بروح عالنادي الرياضي."
+      ],
+      [
+       "Er fährt mit dem Rad zur Arbeit, *damit* er Geld *spart*.",
+       "بيروح عالشغل بالبسكليت لحتى يوفّر مصاري."
+      ],
+      [
+       "*Obwohl* es kalt *war*, sind wir spazieren gegangen.",
+       "رغم إنو كان برد رحنا نتمشى."
+      ],
+      [
+       "Ich schreibe alles auf, *damit* ich nichts *vergesse*.",
+       "بكتب كل شي لحتى ما انسى شي."
+      ],
+      [
+       "Sie arbeitet viel, *obwohl* sie krank *ist*.",
+       "بتشتغل كتير رغم إنها مريضة."
+      ],
+      [
+       "Ich erkläre es noch einmal, *damit* alle es *verstehen*.",
+       "رح اشرحها مرة تانية لحتى الكل يفهم."
+      ],
+      [
+       "*Obwohl* die Wohnung teuer *ist*, nehmen wir sie.",
+       "رغم إنو الشقة غالية منأخدها."
+      ],
+      [
+       "Die Eltern sparen jeden Monat, *damit* ihre Kinder studieren *können*.",
+       "الأهل بيوفروا كل شهر لحتى ولادهم يقدروا يدرسوا."
+      ],
+      [
+       "Er hat die Prüfung bestanden, *obwohl* er kaum *gelernt hat*.",
+       "نجح بالامتحان رغم إنو بالكاد درس."
+      ],
+      [
+       "Ich spreche langsam, *damit* du mich gut *verstehst*.",
+       "بحكي ببطء لحتى تفهمني منيح."
+      ]
+     ]
+    },
+    {
+     "t": "ob والأسئلة غير المباشرة",
+     "note": "ob = إذا (لأسئلة نعم/لا). وكلمة السؤال (wo, wann, wie…) بتضل، والفعل للآخر.",
+     "s": [
+      [
+       "Ich weiß nicht, *ob* er heute *kommt*.",
+       "ما بعرف إذا رح يجي اليوم."
+      ],
+      [
+       "Kannst du mir sagen, *wo* der Bahnhof *ist*?",
+       "بتقدر تقلي وين المحطة؟"
+      ],
+      [
+       "Sie fragt, *ob* wir Hunger *haben*.",
+       "بتسأل إذا نحنا جوعانين."
+      ],
+      [
+       "Ich möchte wissen, *wann* der Kurs *beginnt*.",
+       "بدي اعرف متى بيبلش الكورس."
+      ],
+      [
+       "Weißt du, *wie viel* die Miete *kostet*?",
+       "بتعرف قديش الإيجار؟"
+      ],
+      [
+       "Er hat gefragt, *warum* ich so spät *gekommen bin*.",
+       "سألني ليش إجيت متأخر هالقد."
+      ],
+      [
+       "Ich bin nicht sicher, *ob* das Restaurant noch *geöffnet ist*.",
+       "مش متأكد إذا المطعم لسا مفتوح."
+      ],
+      [
+       "Können Sie mir erklären, *wie* der Automat *funktioniert*?",
+       "ممكن تشرحلي كيف بيشتغل الجهاز؟"
+      ],
+      [
+       "Niemand weiß, *wer* den Schlüssel *genommen hat*.",
+       "حدا ما بيعرف مين أخد المفتاح."
+      ],
+      [
+       "Ich frage mich, *was* er in der Stadt *macht*.",
+       "بسأل حالي شو بيعمل بالمدينة."
+      ]
+     ]
+    },
+    {
+     "t": "während، bevor، nachdem، seit، bis",
+     "note": "während = بينما، bevor = قبل ما، nachdem = بعد ما (مع Plusquamperfekt)، seit = من وقت ما، bis = لحد ما.",
+     "s": [
+      [
+       "*Während* ich *koche*, hört mein Mann Radio.",
+       "وأنا عم اطبخ جوزي بيسمع راديو."
+      ],
+      [
+       "*Bevor* ich zur Arbeit *gehe*, frühstücke ich immer.",
+       "قبل ما روح عالشغل بفطر دايماً."
+      ],
+      [
+       "*Nachdem* ich *geduscht hatte*, habe ich gefrühstückt.",
+       "بعد ما استحميت فطرت."
+      ],
+      [
+       "*Seit* ich in Deutschland *lebe*, esse ich mehr Brot.",
+       "من وقت ما عايش بألمانيا بآكل خبز أكتر."
+      ],
+      [
+       "Warte hier, *bis* ich *zurückkomme*.",
+       "استنى هون لحد ما ارجع."
+      ],
+      [
+       "*Während* wir auf den Bus *warteten*, hat es angefangen zu regnen.",
+       "وإحنا عم نستنى الباص بلشت تشتي."
+      ],
+      [
+       "Ich muss noch den Abwasch machen, *bevor* die Gäste *kommen*.",
+       "لازم اغسل الصحون قبل ما يجو الضيوف."
+      ],
+      [
+       "*Nachdem* wir *gegessen hatten*, sind wir spazieren gegangen.",
+       "بعد ما أكلنا رحنا نتمشى."
+      ],
+      [
+       "*Seitdem* er den neuen Job *hat*, ist er viel glücklicher.",
+       "من وقت ما صار عنده الشغل الجديد صار أسعد بكتير."
+      ],
+      [
+       "Ich lerne weiter, *bis* ich die Prüfung *bestanden habe*.",
+       "رح ضل ادرس لحد ما انجح بالامتحان."
+      ]
+     ]
+    },
+    {
+     "t": "um … zu، ohne … zu، statt … zu",
+     "note": "um … zu = لحتى، ohne … zu = بدون ما، statt … zu = بدل ما. كلمة zu قبل الفعل الأساسي، ومع الفعل المنفصل بتنكتب ملتصقة: anzurufen.",
+     "s": [
+      [
+       "Ich lerne Deutsch, *um* in Deutschland *zu* arbeiten.",
+       "بتعلم ألماني لحتى اشتغل بألمانيا."
+      ],
+      [
+       "Er ist gegangen, *ohne* sich *zu* verabschieden.",
+       "راح بدون ما يودّع."
+      ],
+      [
+       "*Statt* ins Kino *zu* gehen, bleiben wir zu Hause.",
+       "بدل ما نروح عالسينما منضل بالبيت."
+      ],
+      [
+       "Ich habe vergessen, dich *anzurufen*.",
+       "نسيت اتصل فيك."
+      ],
+      [
+       "Es ist wichtig, jeden Tag Deutsch *zu* üben.",
+       "مهم تتمرن ألماني كل يوم."
+      ],
+      [
+       "Sie hat keine Lust, heute *zu* kochen.",
+       "ما عندها نفس تطبخ اليوم."
+      ],
+      [
+       "Ich fahre in die Stadt, *um* ein Geschenk *zu* kaufen.",
+       "رايح عالمدينة لحتى اشتري هدية."
+      ],
+      [
+       "Hast du Zeit, mir *zu* helfen?",
+       "عندك وقت تساعدني؟"
+      ],
+      [
+       "Sie ging aus dem Haus, *ohne* die Tür *zu* schließen.",
+       "طلعت من البيت بدون ما تسكّر الباب."
+      ],
+      [
+       "Es macht mir Spaß, neue Leute *kennenzulernen*.",
+       "بنبسط لما اتعرّف على ناس جداد."
+      ]
+     ]
+    },
+    {
+     "t": "مراجعة: السكن والجيران",
+     "note": "تمرين مختلط على كل الجمل الفرعية مع موضوع السكن.",
+     "s": [
+      [
+       "Meine neue Wohnung ist hell und ruhig, *obwohl* sie mitten in der Stadt *liegt*.",
+       "شقتي الجديدة منورة وهادية رغم إنها بوسط المدينة."
+      ],
+      [
+       "Ich suche eine Wohnung mit Balkon, *weil* ich gern draußen *sitze*.",
+       "عم دور على شقة مع بلكون لأني بحب اقعد برا."
+      ],
+      [
+       "Der Vermieter hat gesagt, *dass* er morgen *vorbeikommt*.",
+       "صاحب البيت قال إنو رح يمرق بكرا."
+      ],
+      [
+       "Die Nachbarn sind sehr nett, *weil* sie uns oft *helfen*.",
+       "الجيران كتير لطيفين لأنو بيساعدونا كتير."
+      ],
+      [
+       "Wir müssen leiser sein, *damit* die Nachbarn nicht *böse werden*.",
+       "لازم نخفض صوتنا لحتى ما يزعلوا الجيران."
+      ],
+      [
+       "*Wenn* die Miete *steigt*, müssen wir umziehen.",
+       "إذا زاد الإيجار لازم ننتقل."
+      ],
+      [
+       "Ich weiß nicht, *ob* die Nebenkosten im Preis *enthalten sind*.",
+       "ما بعرف إذا المصاريف الإضافية داخلة بالسعر."
+      ],
+      [
+       "*Bevor* wir den Mietvertrag *unterschreiben*, lesen wir ihn genau.",
+       "قبل ما نوقّع عقد الإيجار منقراه منيح."
+      ],
+      [
+       "*Nachdem* wir *umgezogen waren*, haben wir die Nachbarn zum Kaffee eingeladen.",
+       "بعد ما انتقلنا عزمنا الجيران عالقهوة."
+      ],
+      [
+       "Ich finde, *dass* die Kaution zu hoch *ist*.",
+       "بلاقي إنو مبلغ التأمين (Kaution) كتير عالي."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "title": "الماضي والمستقبل",
+   "topic": "العمل والمهنة",
+   "days": [
+    {
+     "t": "Perfekt (منتظم وغير منتظم)",
+     "note": "Perfekt = haben + Partizip II. المنتظم: ge…t (gearbeitet)، وغير المنتظم: ge…en (gegeben). الـ Partizip بآخر الجملة.",
+     "s": [
+      [
+       "Ich habe gestern acht Stunden *gearbeitet*.",
+       "اشتغلت مبارح تمن ساعات."
+      ],
+      [
+       "Mein Chef hat mir eine neue Aufgabe *gegeben*.",
+       "مديري عطاني مهمة جديدة."
+      ],
+      [
+       "Wir haben das Projekt gemeinsam *geplant*.",
+       "خططنا المشروع سوا."
+      ],
+      [
+       "Hast du die E-Mail schon *geschrieben*?",
+       "كتبت الإيميل بعد؟"
+      ],
+      [
+       "Sie hat den Vertrag gestern *unterschrieben*.",
+       "وقّعت العقد مبارح."
+      ],
+      [
+       "Ich habe heute Morgen mit dem Kunden *telefoniert*.",
+       "حكيت هالصبح عالتلفون مع الزبون."
+      ],
+      [
+       "Er hat mir bei der Bewerbung *geholfen*.",
+       "ساعدني بالتقديم عالوظيفة."
+      ],
+      [
+       "Die Kollegen haben lange *diskutiert*.",
+       "الزملاء ناقشوا كتير."
+      ],
+      [
+       "Ich habe einen Kurs für Erste Hilfe *besucht*.",
+       "حضرت كورس إسعافات أولية."
+      ],
+      [
+       "Wir haben im Team viel *gelacht*.",
+       "ضحكنا كتير بالفريق."
+      ]
+     ]
+    },
+    {
+     "t": "Perfekt مع sein والأفعال المنفصلة",
+     "note": "أفعال الحركة وتغيير الحالة بتاخد sein (gefahren, gekommen). المنفصلة بتاخد ge بالنص: angekommen, aufgestanden.",
+     "s": [
+      [
+       "Ich *bin* heute früh zur Arbeit *gefahren*.",
+       "رحت عالشغل بدري اليوم."
+      ],
+      [
+       "Mein Kollege *ist* gestern nicht *gekommen*.",
+       "زميلي ما إجا مبارح."
+      ],
+      [
+       "Wir *sind* um acht Uhr im Büro *angekommen*.",
+       "وصلنا عالمكتب الساعة تمانية."
+      ],
+      [
+       "Sie *ist* früh *aufgestanden*.",
+       "قامت بدري."
+      ],
+      [
+       "Ich *habe* das Büro um sechs Uhr *verlassen*.",
+       "طلعت من المكتب الساعة ستة."
+      ],
+      [
+       "Der Zug *ist* pünktlich *abgefahren*.",
+       "القطار طلع بالوقت."
+      ],
+      [
+       "Er *hat* die Besprechung *vorbereitet*.",
+       "حضّر الاجتماع."
+      ],
+      [
+       "Wir *sind* nach dem Meeting noch essen *gegangen*.",
+       "بعد الاجتماع رحنا ناكل."
+      ],
+      [
+       "Sie *hat* den Kunden *angerufen*.",
+       "اتصلت بالزبون."
+      ],
+      [
+       "Ich *bin* nach Berlin *umgezogen*.",
+       "انتقلت على برلين."
+      ]
+     ]
+    },
+    {
+     "t": "Präteritum: sein، haben، الأفعال الناقصة",
+     "note": "بالـ Präteritum منستخدم war, hatte والأفعال الناقصة (musste, konnte, wollte, durfte, sollte) بدل Perfekt.",
+     "s": [
+      [
+       "Gestern *war* ich sehr müde.",
+       "مبارح كنت كتير تعبان."
+      ],
+      [
+       "Wir *hatten* viel Arbeit.",
+       "كان عنا شغل كتير."
+      ],
+      [
+       "Ich *musste* bis spät im Büro bleiben.",
+       "كان لازم ضل بالمكتب لمتأخر."
+      ],
+      [
+       "Er *konnte* den Termin leider nicht einhalten.",
+       "للأسف ما قدر يلتزم بالموعد."
+      ],
+      [
+       "Wir *wollten* früher Feierabend machen.",
+       "كنا بدنا نخلص شغل أبكر."
+      ],
+      [
+       "Sie *durfte* nicht länger bleiben.",
+       "ما كان مسموح إلها تضل أكتر."
+      ],
+      [
+       "Der Chef *sollte* um zehn Uhr kommen.",
+       "المدير كان المفروض يجي الساعة عشرة."
+      ],
+      [
+       "Die Besprechung *war* sehr lang.",
+       "الاجتماع كان طويل كتير."
+      ],
+      [
+       "Ich *hatte* keine Zeit für eine Pause.",
+       "ما كان عندي وقت لاستراحة."
+      ],
+      [
+       "Das Gehalt *war* leider zu niedrig.",
+       "الراتب كان للأسف قليل كتير."
+      ]
+     ]
+    },
+    {
+     "t": "Präteritum: الأفعال غير المنتظمة",
+     "note": "بالأفعال غير المنتظمة بيتغير جذر الفعل (gehen ← ging). منستخدم Präteritum بالكتابة وبالقصص.",
+     "s": [
+      [
+       "Ich *ging* nach dem Studium zu einer Firma.",
+       "بعد الدراسة رحت لشركة."
+      ],
+      [
+       "Er *fand* nach drei Monaten eine Stelle.",
+       "لقى شغل بعد تلات شهور."
+      ],
+      [
+       "Sie *schrieb* ihre Bewerbung am Wochenende.",
+       "كتبت طلب توظيفها بنهاية الأسبوع."
+      ],
+      [
+       "Wir *trafen* uns jeden Tag in der Kantine.",
+       "كنا نتقابل كل يوم بالكافيتيريا."
+      ],
+      [
+       "Der Chef *sagte*, dass alle früher gehen dürfen.",
+       "المدير قال إنو الكل بيقدر يروح بدري."
+      ],
+      [
+       "Ich *bekam* den Job sofort.",
+       "أخدت الشغل فوراً."
+      ],
+      [
+       "Er *rief* seine Freundin an und *erzählte* ihr alles.",
+       "اتصل بصاحبته وخبرها كل شي."
+      ],
+      [
+       "Die Firma *zahlte* jeden Monat pünktlich.",
+       "الشركة كانت تدفع كل شهر بالوقت."
+      ],
+      [
+       "Wir *blieben* zwei Stunden im Meeting.",
+       "ضلينا ساعتين بالاجتماع."
+      ],
+      [
+       "Sie *kam* spät und *entschuldigte* sich.",
+       "إجت متأخرة واعتذرت."
+      ]
+     ]
+    },
+    {
+     "t": "Plusquamperfekt",
+     "note": "Plusquamperfekt = hatte / war + Partizip II. للحدث اللي صار قبل حدث ماضي تاني.",
+     "s": [
+      [
+       "*Nachdem* ich die Prüfung *bestanden hatte*, bekam ich eine Stelle.",
+       "بعد ما نجحت بالامتحان أخدت وظيفة."
+      ],
+      [
+       "Er war müde, weil er die ganze Nacht *gearbeitet hatte*.",
+       "كان تعبان لأنو اشتغل الليل كله."
+      ],
+      [
+       "Als wir ankamen, *hatte* das Meeting schon *begonnen*.",
+       "لما وصلنا كان الاجتماع بلّش."
+      ],
+      [
+       "Ich *hatte* meinen Schlüssel *vergessen*, deshalb musste ich warten.",
+       "كنت ناسي مفتاحي فاضطريت استنى."
+      ],
+      [
+       "Sie *hatte* schon dreimal *angerufen*, bevor ich zurückrief.",
+       "كانت اتصلت تلات مرات قبل ما رجعت اتصل."
+      ],
+      [
+       "*Nachdem* er *gekündigt hatte*, suchte er eine neue Arbeit.",
+       "بعد ما استقال دوّر على شغل جديد."
+      ],
+      [
+       "Wir *waren* gerade *eingeschlafen*, als das Telefon klingelte.",
+       "كنا لسا نمنا لما رن التلفون."
+      ],
+      [
+       "Er erzählte, dass er vorher in Italien *gelebt hatte*.",
+       "حكى إنو قبل كان عايش بإيطاليا."
+      ],
+      [
+       "*Nachdem* die Kunden *gegangen waren*, räumten wir das Büro auf.",
+       "بعد ما راحوا الزبائن رتبنا المكتب."
+      ],
+      [
+       "Ich *hatte* den Bericht noch nicht *gelesen*, als die Besprechung anfing.",
+       "ما كنت قريت التقرير لما بلّش الاجتماع."
+      ]
+     ]
+    },
+    {
+     "t": "Futur I والتخمين",
+     "note": "Futur I = werden + Infinitiv (بآخر الجملة). وبنستخدمه كمان للتخمين: Er wird wohl krank sein.",
+     "s": [
+      [
+       "Nächstes Jahr *werde* ich eine Weiterbildung *machen*.",
+       "السنة الجاية رح أعمل دورة تطوير."
+      ],
+      [
+       "Er *wird* sicher bald eine Gehaltserhöhung *bekommen*.",
+       "أكيد رح ياخد زيادة راتب قريباً."
+      ],
+      [
+       "Ich *werde* mich bei dieser Firma *bewerben*.",
+       "رح قدّم عالوظيفة بهالشركة."
+      ],
+      [
+       "Sie *wird* wohl krank *sein*.",
+       "غالباً هي مريضة."
+      ],
+      [
+       "Wir *werden* morgen Abend den Vertrag *besprechen*.",
+       "رح نناقش العقد بكرا مسا."
+      ],
+      [
+       "Das *wird* sicher ein langer Tag *werden*.",
+       "أكيد رح يكون يوم طويل."
+      ],
+      [
+       "Er *wird* wohl im Stau *stehen*.",
+       "غالباً هو عالق بالزحمة."
+      ],
+      [
+       "Ich *werde* meinen Lebenslauf noch einmal *überarbeiten*.",
+       "رح راجع سيرتي الذاتية مرة تانية."
+      ],
+      [
+       "Nächste Woche *werden* wir ein neues Team *bekommen*.",
+       "الأسبوع الجاي رح يكون عنا فريق جديد."
+      ],
+      [
+       "Hoffentlich *werde* ich die Stelle *bekommen*.",
+       "أتمنى إني آخد الوظيفة."
+      ]
+     ]
+    },
+    {
+     "t": "مراجعة: مقابلة العمل والسيرة الذاتية",
+     "note": "جمل بتحتاجها بمقابلة العمل وبالسيرة الذاتية وبالاستقالة.",
+     "s": [
+      [
+       "Ich möchte mich um die Stelle als Verkäufer *bewerben*.",
+       "بدي قدّم عالوظيفة كبائع."
+      ],
+      [
+       "Im Vorstellungsgespräch hat man mich nach meinen Stärken *gefragt*.",
+       "بمقابلة العمل سألوني عن نقاط قوتي."
+      ],
+      [
+       "Ich habe zwei Jahre Berufserfahrung als Elektriker.",
+       "عندي سنتين خبرة كهربائي."
+      ],
+      [
+       "Mein Lebenslauf ist leider nicht ganz *aktuell*.",
+       "سيرتي الذاتية للأسف مش محدّثة تماماً."
+      ],
+      [
+       "Der Vertrag gilt für zwei Jahre, *obwohl* er mit einer Probezeit *beginnt*.",
+       "العقد ساري لسنتين رغم إنو بيبلش بفترة تجربة."
+      ],
+      [
+       "Ich habe meine Kündigung geschrieben, *weil* ich mehr Geld verdienen *möchte*.",
+       "كتبت استقالتي لأني بدي اكسب مصاري أكتر."
+      ],
+      [
+       "Wie viel Urlaub *bekommt* man im Jahr?",
+       "قديش بياخد الواحد إجازة بالسنة؟"
+      ],
+      [
+       "Die Arbeitszeiten sind flexibel, *sodass* ich früher gehen *kann*.",
+       "دوام الشغل مرن بحيث بقدر روح بدري."
+      ],
+      [
+       "*Wenn* ich die Stelle *bekomme*, ziehe ich nach München.",
+       "إذا حصلت عالوظيفة رح انتقل لميونخ."
+      ],
+      [
+       "Ich freue mich auf Ihre Antwort.",
+       "بتطلّع لردّكم."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "title": "الجمل الموصولة والصفات",
+   "topic": "الصحة والتسوق",
+   "days": [
+    {
+     "t": "Relativsätze: الفاعل (Nominativ)",
+     "note": "الجملة الموصولة بتبدأ بـ der / die / das حسب جنس الاسم. هون الضمير هو الفاعل. والفعل للآخر.",
+     "s": [
+      [
+       "Das ist der Arzt, *der* mir *geholfen hat*.",
+       "هاد الدكتور اللي ساعدني."
+      ],
+      [
+       "Die Frau, *die* neben mir *sitzt*, ist Krankenschwester.",
+       "المرأة اللي قاعدة جنبي ممرضة."
+      ],
+      [
+       "Das Medikament, *das* gegen Kopfschmerzen *hilft*, kostet nur fünf Euro.",
+       "الدواء اللي بيفيد ضد الصداع سعره بس خمس يورو."
+      ],
+      [
+       "Die Patienten, *die* im Wartezimmer *sitzen*, sind sehr müde.",
+       "المرضى اللي قاعدين بغرفة الانتظار تعبانين كتير."
+      ],
+      [
+       "Ich kenne einen Arzt, *der* sehr gut *zuhört*.",
+       "بعرف دكتور بيسمع منيح."
+      ],
+      [
+       "Es gibt Tabletten, *die* man nur mit Rezept *bekommt*.",
+       "في حبوب ما بتنباع إلا بوصفة."
+      ],
+      [
+       "Das Kind, *das* Fieber *hat*, muss im Bett bleiben.",
+       "الولد اللي عنده حرارة لازم يضل بالسرير."
+      ],
+      [
+       "Der Mann, *der* gestern im Krankenhaus *war*, ist mein Onkel.",
+       "الرجل اللي كان مبارح بالمستشفى هو عمي."
+      ],
+      [
+       "Die Salbe, *die* am besten *hilft*, ist leider ausverkauft.",
+       "المرهم اللي أحسن شي بيفيد خلصت كميته للأسف."
+      ],
+      [
+       "Ich suche eine Ärztin, *die* Arabisch *spricht*.",
+       "عم دور على دكتورة بتحكي عربي."
+      ]
+     ]
+    },
+    {
+     "t": "Relativsätze: المفعول به (Akkusativ)",
+     "note": "لما الضمير مفعول به بيتغير المذكر بس: der ← den. والباقي (die, das, die) بيضل نفسه.",
+     "s": [
+      [
+       "Das ist der Arzt, *den* ich gestern *besucht habe*.",
+       "هاد الدكتور اللي زرته مبارح."
+      ],
+      [
+       "Die Tabletten, *die* ich *nehme*, sind sehr stark.",
+       "الحبوب اللي باخدها قوية كتير."
+      ],
+      [
+       "Der Termin, *den* ich *wollte*, war leider schon weg.",
+       "الموعد اللي كنت بدي إياه كان للأسف راح."
+      ],
+      [
+       "Das Rezept, *das* der Arzt mir *gegeben hat*, liegt auf dem Tisch.",
+       "الوصفة اللي عطاني إياها الدكتور عالطاولة."
+      ],
+      [
+       "Die Schmerzen, *die* ich seit Tagen *habe*, werden schlimmer.",
+       "الأوجاع اللي عندي من أيام عم تزيد."
+      ],
+      [
+       "Der Tee, *den* meine Mutter *kocht*, hilft gegen Husten.",
+       "الشاي اللي بتعمله أمي بيفيد ضد السعال."
+      ],
+      [
+       "Das Buch, *das* ich *lese*, ist über gesunde Ernährung.",
+       "الكتاب اللي عم اقراه عن التغذية الصحية."
+      ],
+      [
+       "Die Untersuchung, *die* der Arzt *empfohlen hat*, ist teuer.",
+       "الفحص اللي نصح فيه الدكتور غالي."
+      ],
+      [
+       "Ist das der Mann, *den* du *meinst*?",
+       "هاد الرجل اللي بتقصده؟"
+      ],
+      [
+       "Die Ärztin, *die* ich *kenne*, arbeitet in München.",
+       "الدكتورة اللي بعرفها بتشتغل بميونخ."
+      ]
+     ]
+    },
+    {
+     "t": "Relativsätze: Dativ ومع حرف جر",
+     "note": "Dativ: dem / der / denen. ولما في حرف جر بيجي قبل الضمير: in dem, mit der, auf den.",
+     "s": [
+      [
+       "Das ist die Ärztin, *der* ich *vertraue*.",
+       "هاي الدكتورة اللي بثق فيها."
+      ],
+      [
+       "Der Patient, *dem* der Arzt *half*, ist jetzt gesund.",
+       "المريض اللي ساعده الدكتور صار منيح هلأ."
+      ],
+      [
+       "Das Krankenhaus, *in dem* ich *arbeite*, ist sehr groß.",
+       "المستشفى اللي بشتغل فيها كبيرة كتير."
+      ],
+      [
+       "Die Freundin, *mit der* ich ins Fitnessstudio *gehe*, ist Physiotherapeutin.",
+       "صاحبتي اللي بروح معها عالنادي أخصائية علاج طبيعي."
+      ],
+      [
+       "Der Termin, *auf den* ich so lange *gewartet habe*, ist morgen.",
+       "الموعد اللي استنيته هالقد وقت بكرا."
+      ],
+      [
+       "Die Krankheit, *an der* er *leidet*, ist nicht gefährlich.",
+       "المرض اللي بيعاني منه مش خطير."
+      ],
+      [
+       "Das Thema, *über das* wir *gesprochen haben*, ist wichtig.",
+       "الموضوع اللي حكينا عنه مهم."
+      ],
+      [
+       "Die Apotheke, *bei der* ich *war*, hatte das Medikament nicht.",
+       "الصيدلية اللي كنت عندها ما كان عندها الدواء."
+      ],
+      [
+       "Das sind die Kollegen, *mit denen* ich *Mittag esse*.",
+       "هدول الزملاء اللي باكل معهم الغدا."
+      ],
+      [
+       "Der Arzt, *von dem* ich dir *erzählt habe*, hat heute geöffnet.",
+       "الدكتور اللي حكيتلك عنه فاتح اليوم."
+      ]
+     ]
+    },
+    {
+     "t": "الصفات بعد الأداة المعرّفة",
+     "note": "بعد der / die / das الصفة بتاخد -e أو -en. الأغلب -en، و-e بس بالمفرد Nominativ (وAkkusativ للمؤنث والمحايد).",
+     "s": [
+      [
+       "Ich nehme *den roten* Pullover.",
+       "باخد البلوفر الأحمر."
+      ],
+      [
+       "Wo ist *die neue* Jacke?",
+       "وين الجاكيت الجديدة؟"
+      ],
+      [
+       "*Das kleine* Geschäft hat gute Preise.",
+       "المحل الصغير أسعاره منيحة."
+      ],
+      [
+       "Ich mag *die günstigen* Angebote.",
+       "بحب العروض الرخيصة."
+      ],
+      [
+       "Gefällt dir *der blaue* Mantel?",
+       "عاجبك المعطف الأزرق؟"
+      ],
+      [
+       "Wir kaufen *die frischen* Brötchen beim Bäcker.",
+       "منشتري الخبز الطازج من الفران."
+      ],
+      [
+       "Er trägt *das schicke* Hemd.",
+       "بيلبس القميص الأنيق."
+      ],
+      [
+       "Mit *dem neuen* Handy bin ich sehr zufrieden.",
+       "أنا كتير راضي عن الموبايل الجديد."
+      ],
+      [
+       "Ich suche *die passende* Größe.",
+       "عم دور على المقاس المناسب."
+      ],
+      [
+       "In *der großen* Mall finde ich alles.",
+       "بالمول الكبير بلاقي كل شي."
+      ]
+     ]
+    },
+    {
+     "t": "الصفات بعد ein وبدون أداة",
+     "note": "بدون أداة أو بعد ein، النهاية بتوضح الجنس والحالة: einen günstigen Laptop, ein tolles Geschenk, frisches Gemüse.",
+     "s": [
+      [
+       "Ich suche *einen günstigen* Laptop.",
+       "عم دور على لابتوب رخيص."
+      ],
+      [
+       "Das ist *ein interessantes* Angebot.",
+       "هاد عرض مثير للاهتمام."
+      ],
+      [
+       "Sie hat *eine schöne* Tasche gekauft.",
+       "اشترت شنطة حلوة."
+      ],
+      [
+       "Ich brauche *neue* Schuhe.",
+       "بدي جزمة جديدة."
+      ],
+      [
+       "Wir haben *frisches* Gemüse gekauft.",
+       "اشترينا خضار طازة."
+      ],
+      [
+       "Er trinkt gern *kalten* Tee.",
+       "بيحب يشرب شاي بارد."
+      ],
+      [
+       "Haben Sie *ein größeres* Modell?",
+       "عندكم موديل أكبر؟"
+      ],
+      [
+       "Das ist *ein tolles* Geschenk für meine Mutter.",
+       "هاد هدية رائعة لأمي."
+      ],
+      [
+       "In diesem Laden gibt es *gute* Qualität.",
+       "بهالمحل في جودة منيحة."
+      ],
+      [
+       "Mit *freundlichen* Verkäufern macht Einkaufen mehr Spaß.",
+       "التسوق أحلى مع بائعين لطيفين."
+      ]
+     ]
+    },
+    {
+     "t": "Komparativ و Superlativ",
+     "note": "Komparativ = صفة + er (billiger)، Superlativ = am + صفة + sten (am teuersten). للمقارنة: als (أكتر من) وso … wie (متل).",
+     "s": [
+      [
+       "Dieser Laptop ist *billiger als* der andere.",
+       "هاللابتوب أرخص من التاني."
+      ],
+      [
+       "Das ist das *beste* Angebot.",
+       "هاد أحسن عرض."
+      ],
+      [
+       "Mein Handy ist *neuer als* deins.",
+       "موبايلي أجدد من موبايلك."
+      ],
+      [
+       "Dieses Hemd ist *am teuersten*.",
+       "هالقميص هو الأغلى."
+      ],
+      [
+       "Ich finde Online-Shopping *genauso bequem wie* Einkaufen im Laden.",
+       "بلاقي التسوق أونلاين مريح متل التسوق بالمحل."
+      ],
+      [
+       "Der Supermarkt ist nicht *so weit wie* der Markt.",
+       "السوبرماركت مش بعيد قد السوق."
+      ],
+      [
+       "*Je mehr* ich vergleiche, *desto günstiger* kaufe ich ein.",
+       "كل ما قارنت أكتر اشتريت أرخص."
+      ],
+      [
+       "Das ist *die schönste* Jacke im ganzen Laden.",
+       "هاي أحلى جاكيت بالمحل كله."
+      ],
+      [
+       "Frische Lebensmittel sind *gesünder als* Fertiggerichte.",
+       "الأكل الطازج أصح من الجاهز."
+      ],
+      [
+       "Am Wochenende sind die Geschäfte *voller als* unter der Woche.",
+       "بنهاية الأسبوع المحلات أزحم من خلال الأسبوع."
+      ]
+     ]
+    },
+    {
+     "t": "مراجعة: عند الدكتور",
+     "note": "جمل أساسية بتحتاجها عند الدكتور وبالصيدلية وبشرح الأعراض.",
+     "s": [
+      [
+       "Ich habe seit drei Tagen *Halsschmerzen* und *Husten*.",
+       "عندي من تلات أيام وجع حلق وسعال."
+      ],
+      [
+       "*Könnte* ich bitte einen Termin für morgen *bekommen*?",
+       "ممكن موعد بكرا لو سمحت؟"
+      ],
+      [
+       "Der Arzt hat gesagt, *dass* ich viel Wasser trinken *soll*.",
+       "الدكتور قال إنو لازم اشرب مي كتير."
+      ],
+      [
+       "Ich muss dreimal am Tag eine Tablette *nehmen*.",
+       "لازم اخد حبة تلات مرات باليوم."
+      ],
+      [
+       "Haben Sie eine *Allergie* gegen Medikamente?",
+       "عندك حساسية من أدوية؟"
+      ],
+      [
+       "Ich fühle mich schwach, *weil* ich nicht gut *geschlafen habe*.",
+       "حاسس حالي ضعيف لأني ما نمت منيح."
+      ],
+      [
+       "Bitte kommen Sie nächste Woche zur *Kontrolle*.",
+       "رجاءً تعال الأسبوع الجاي للمتابعة."
+      ],
+      [
+       "Meine *Krankenkasse* übernimmt die Kosten.",
+       "تأميني الصحي بيغطي التكاليف."
+      ],
+      [
+       "Ich habe mir beim Sport das Bein *gebrochen*.",
+       "كسرت رجلي بالرياضة."
+      ],
+      [
+       "*Gute Besserung!*",
+       "الله يشفيك!"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Konjunktiv II و Passiv",
+   "topic": "السفر والمواصلات",
+   "days": [
+    {
+     "t": "Konjunktiv II: الأمنيات",
+     "note": "للأمنيات: wäre (كان يكون)، hätte (كان عنده)، würde + Infinitiv. وبنقدر نبدأ بـ Wenn … nur / doch.",
+     "s": [
+      [
+       "Ich *wäre* gern reicher.",
+       "يا ريت أكون أغنى."
+      ],
+      [
+       "Ich *hätte* gern mehr Zeit für meine Familie.",
+       "بتمنى يكون عندي وقت أكتر لعيلتي."
+      ],
+      [
+       "Ich *würde* gern in einem anderen Land *leben*.",
+       "بحب أعيش ببلد تاني."
+      ],
+      [
+       "*Wenn* ich nur schon im Urlaub *wäre*!",
+       "ليتني بالإجازة هلأ!"
+      ],
+      [
+       "Ich *würde* so gern ans Meer *fahren*.",
+       "كتير بحب روح عالبحر."
+      ],
+      [
+       "*Wenn* er nur nicht so viel *arbeiten müsste*!",
+       "ليته ما كان مضطر يشتغل هالقد!"
+      ],
+      [
+       "Es *wäre* schön, *wenn* die Sonne *scheinen würde*.",
+       "كان حلو لو الشمس طالعة."
+      ],
+      [
+       "Ich *wünschte*, ich *könnte* besser Deutsch sprechen.",
+       "يا ريت أقدر احكي ألماني أحسن."
+      ],
+      [
+       "Wir *hätten* gern einen Tisch am Fenster.",
+       "بدنا طاولة عالشباك لو سمحت."
+      ],
+      [
+       "Das *wäre* wirklich ein Traum!",
+       "هاد بيكون حلم فعلاً!"
+      ]
+     ]
+    },
+    {
+     "t": "Konjunktiv II: الطلب المؤدب والنصيحة",
+     "note": "للطلب المؤدب: könnte / würde / dürfte. للنصيحة: sollte / könnte / An deiner Stelle würde ich …",
+     "s": [
+      [
+       "*Könnten* Sie mir bitte helfen?",
+       "ممكن تساعدني لو سمحت؟"
+      ],
+      [
+       "*Würden* Sie das bitte *wiederholen*?",
+       "ممكن تعيد هالشي لو سمحت؟"
+      ],
+      [
+       "*Dürfte* ich Sie etwas *fragen*?",
+       "بيسمحلي اسألك شي؟"
+      ],
+      [
+       "*An deiner Stelle würde* ich zum Arzt *gehen*.",
+       "لو مكانك كنت رحت عالدكتور."
+      ],
+      [
+       "Du *solltest* mehr Wasser trinken.",
+       "المفروض تشرب مي أكتر."
+      ],
+      [
+       "Du *könntest* mal früher ins Bett gehen.",
+       "ممكن تنام بدري مرة."
+      ],
+      [
+       "Ich *würde* dir *raten*, das Zimmer vorher zu buchen.",
+       "بنصحك تحجز الغرفة قبل."
+      ],
+      [
+       "*Hättest* du Lust, mit uns ins Kino zu gehen?",
+       "بدك تروح معنا عالسينما؟"
+      ],
+      [
+       "*Könnte* ich vielleicht ein Glas Wasser *haben*?",
+       "ممكن كاس مي؟"
+      ],
+      [
+       "Sie *sollten* nicht so viel Zucker essen.",
+       "المفروض ما تاكل سكر هالقد."
+      ]
+     ]
+    },
+    {
+     "t": "جمل الشرط الخيالي",
+     "note": "Wenn + Konjunktiv II ، جملة رئيسية بـ Konjunktiv II. كلها للشي اللي مش حقيقي أو مستحيل.",
+     "s": [
+      [
+       "*Wenn* ich Zeit *hätte*, *würde* ich mehr *reisen*.",
+       "لو عندي وقت كنت سافرت أكتر."
+      ],
+      [
+       "*Wenn* ich reich *wäre*, *würde* ich ein Haus am Meer *kaufen*.",
+       "لو كنت غني كنت اشتريت بيت عالبحر."
+      ],
+      [
+       "*Wenn* es nicht *regnen würde*, *könnten* wir draußen sitzen.",
+       "لو ما كانت عم تشتي كنا قدرنا نقعد برا."
+      ],
+      [
+       "Ich *würde* kommen, *wenn* ich nicht krank *wäre*.",
+       "كنت إجيت لو ما كنت مريض."
+      ],
+      [
+       "*Wenn* ich du *wäre*, *würde* ich den Job *annehmen*.",
+       "لو كنت مكانك كنت قبلت الشغل."
+      ],
+      [
+       "*Wenn* wir mehr Geld *hätten*, *würden* wir ein Auto *kaufen*.",
+       "لو عنا مصاري أكتر كنا اشترينا سيارة."
+      ],
+      [
+       "Er *würde* besser *schlafen*, *wenn* er weniger Kaffee *trinken würde*.",
+       "كان نام أحسن لو شرب قهوة أقل."
+      ],
+      [
+       "*Wenn* du mir *helfen würdest*, *wäre* ich bis heute Abend fertig.",
+       "لو ساعدتني كنت خلصت لهالمسا."
+      ],
+      [
+       "*Wenn* ich keinen Termin *hätte*, *würde* ich mitkommen.",
+       "لو ما كان عندي موعد كنت إجيت معكم."
+      ],
+      [
+       "Ich *wäre* schon längst dort, *wenn* der Zug nicht so spät *gekommen wäre*.",
+       "كنت صرت هناك من زمان لو ما تأخر القطار."
+      ]
+     ]
+    },
+    {
+     "t": "Passiv Präsens",
+     "note": "Passiv Präsens = werden + Partizip II (بآخر الجملة). بنركز على الشي اللي صار، مش على مين عمله.",
+     "s": [
+      [
+       "Das Frühstück *wird* um sieben Uhr *serviert*.",
+       "الفطور بيتقدّم الساعة سبعة."
+      ],
+      [
+       "Hier *wird* viel Deutsch *gesprochen*.",
+       "هون بيتحكى ألماني كتير."
+      ],
+      [
+       "Die Tickets *werden* online *verkauft*.",
+       "التذاكر بتنباع أونلاين."
+      ],
+      [
+       "Das Zimmer *wird* jeden Tag *geputzt*.",
+       "الغرفة بتتنظف كل يوم."
+      ],
+      [
+       "Der Flug *wird* wegen des Wetters *verschoben*.",
+       "الرحلة عم تتأجل بسبب الطقس."
+      ],
+      [
+       "Die Koffer *werden* am Eingang *abgegeben*.",
+       "الشنط بتتسلّم عالمدخل."
+      ],
+      [
+       "In diesem Restaurant *wird* nur frisch *gekocht*.",
+       "بهالمطعم بيطبخوا طازج بس."
+      ],
+      [
+       "Das Gepäck *wird* kontrolliert.",
+       "الأمتعة بتنفحص."
+      ],
+      [
+       "Die Fahrkarten *werden* im Zug *kontrolliert*.",
+       "التذاكر بتنفحص بالقطار."
+      ],
+      [
+       "Die Busse *werden* regelmäßig *gewartet*.",
+       "الباصات بتنصان بشكل منتظم."
+      ]
+     ]
+    },
+    {
+     "t": "Passiv Präteritum و Perfekt",
+     "note": "Präteritum: wurde + Partizip II. Perfekt: ist + Partizip II + worden (مو geworden).",
+     "s": [
+      [
+       "Die Brücke *wurde* 1990 *gebaut*.",
+       "الجسر انبنى سنة 1990."
+      ],
+      [
+       "Der Zug *wurde* wegen eines Unfalls *gestoppt*.",
+       "القطار توقف بسبب حادث."
+      ],
+      [
+       "Mein Koffer *wurde* am Flughafen *gefunden*.",
+       "شنطتي انلقت بالمطار."
+      ],
+      [
+       "Das Hotel *wurde* letztes Jahr *renoviert*.",
+       "الفندق انجدد السنة الماضية."
+      ],
+      [
+       "Wir *wurden* freundlich *empfangen*.",
+       "استقبلونا بلطف."
+      ],
+      [
+       "Der Flug *ist* leider *gestrichen worden*.",
+       "الرحلة انلغت للأسف."
+      ],
+      [
+       "Das Zimmer *ist* schon *gebucht worden*.",
+       "الغرفة انحجزت من قبل."
+      ],
+      [
+       "Die Altstadt *wurde* vor Jahren *restauriert*.",
+       "المدينة القديمة انرممت من سنين."
+      ],
+      [
+       "Das Paket *ist* gestern *geliefert worden*.",
+       "الطرد انسلّم مبارح."
+      ],
+      [
+       "Wir *sind* vom Fahrer *abgeholt worden*.",
+       "السائق إجا أخدنا."
+      ]
+     ]
+    },
+    {
+     "t": "Passiv مع الأفعال الناقصة، Zustandspassiv، man",
+     "note": "فعل ناقص + Partizip II + werden: muss abgegeben werden. Zustandspassiv = sein + Partizip II (النتيجة): Die Tür ist geschlossen. وman بدل الفاعل.",
+     "s": [
+      [
+       "Das Gepäck *muss* am Schalter *abgegeben werden*.",
+       "الأمتعة لازم تنسلّم عالشباك."
+      ],
+      [
+       "Hier *darf* nicht *geraucht werden*.",
+       "ممنوع التدخين هون."
+      ],
+      [
+       "Der Termin *kann* online *gebucht werden*.",
+       "الموعد بينحجز أونلاين."
+      ],
+      [
+       "Die Tür *ist geschlossen*.",
+       "الباب مسكّر."
+      ],
+      [
+       "Das Museum *ist* montags *geschlossen*.",
+       "المتحف مسكّر أيام الاثنين."
+      ],
+      [
+       "Die Zimmer *sind* alle *besetzt*.",
+       "الغرف كلها مشغولة."
+      ],
+      [
+       "*Man kann* das Ticket auch im Bus kaufen.",
+       "بيمكن شراء التذكرة كمان بالباص."
+      ],
+      [
+       "*Man muss* sich vorher anmelden.",
+       "لازم الواحد يسجّل قبل."
+      ],
+      [
+       "Das *kann* leider nicht mehr *geändert werden*.",
+       "هاد للأسف ما بيتغير بعد."
+      ],
+      [
+       "Das Zimmer *soll* bis Montag *renoviert werden*.",
+       "المفروض الغرفة تتجدد لحد الاثنين."
+      ]
+     ]
+    },
+    {
+     "t": "مراجعة: القطار والطيارة والفندق",
+     "note": "جمل بتحتاجها بالسفر: مواعيد، حجز، تأخير، إلغاء.",
+     "s": [
+      [
+       "Wo muss ich *umsteigen*, um nach Köln zu kommen?",
+       "وين لازم بدّل لحتى اوصل لكولن؟"
+      ],
+      [
+       "Der Zug hat zwanzig Minuten *Verspätung*.",
+       "القطار متأخر عشرين دقيقة."
+      ],
+      [
+       "Ich möchte ein Zimmer mit Frühstück *buchen*.",
+       "بدي احجز غرفة مع فطور."
+      ],
+      [
+       "Auf welchem *Gleis* fährt der Zug nach München ab?",
+       "عأي رصيف بيطلع القطار على ميونخ؟"
+      ],
+      [
+       "*Gibt es* eine *Ermäßigung* für Studenten?",
+       "في تخفيض للطلاب؟"
+      ],
+      [
+       "Ich habe meine Reise *storniert*, weil ich krank war.",
+       "لغيت رحلتي لأني كنت مريض."
+      ],
+      [
+       "Wir wollten am Wochenende einen *Ausflug* machen, aber es hat geregnet.",
+       "كنا بدنا نعمل رحلة نهاية الأسبوع بس شتّت."
+      ],
+      [
+       "*Könnten* Sie uns ein Taxi zum Flughafen *bestellen*?",
+       "ممكن تطلبلنا تاكسي للمطار؟"
+      ],
+      [
+       "Die *Unterkunft* ist teuer, *weil* sie direkt am Strand *liegt*.",
+       "السكن غالي لأنو على الشاطئ مباشرة."
+      ],
+      [
+       "*Gute Reise* und viel Spaß!",
+       "رحلة سعيدة واستمتع!"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "title": "الحالات وحروف الجر",
+   "topic": "الدوائر الرسمية والدراسة",
+   "days": [
+    {
+     "t": "Genitiv و n-Deklination",
+     "note": "Genitiv = ملكية: das Auto des Bruders. المذكر والمحايد بياخدوا -(e)s. وبعض الأسماء (n-Deklination) بتاخد -n / -en بكل الحالات ما عدا Nominativ: der Student ← den Studenten.",
+     "s": [
+      [
+       "Das ist das Auto *meines* Bruders.",
+       "هاد سيارة أخي."
+      ],
+      [
+       "Die Wohnung *des* Nachbarn ist sehr groß.",
+       "شقة الجار كبيرة كتير."
+      ],
+      [
+       "Der Name *der* Lehrerin ist Frau Weber.",
+       "اسم المعلمة السيدة ويبر."
+      ],
+      [
+       "Das Ende *des* Kurses ist im Dezember.",
+       "نهاية الكورس بديسمبر."
+      ],
+      [
+       "Die Mitte *der* Stadt ist autofrei.",
+       "وسط المدينة خالي من السيارات."
+      ],
+      [
+       "Er ist der Sohn *eines* Arztes.",
+       "هو ابن دكتور."
+      ],
+      [
+       "Ich kenne den Namen des *Studenten* nicht.",
+       "ما بعرف اسم الطالب."
+      ],
+      [
+       "Ich habe den *Kollegen* gestern gesehen.",
+       "شفت الزميل مبارح."
+      ],
+      [
+       "Der *Junge* hat dem *Herrn* geholfen.",
+       "الولد ساعد السيد."
+      ],
+      [
+       "Das Thema *dieser* Woche ist Umwelt.",
+       "موضوع هالأسبوع البيئة."
+      ]
+     ]
+    },
+    {
+     "t": "حروف الجر مع Genitiv",
+     "note": "wegen (بسبب)، trotz (رغم)، während (خلال)، statt (بدل)، innerhalb / außerhalb (ضمن / برا) كلها بتاخد Genitiv.",
+     "s": [
+      [
+       "*Wegen des Regens* bleiben wir zu Hause.",
+       "بسبب المطر منضل بالبيت."
+      ],
+      [
+       "*Trotz des Wetters* gehen wir spazieren.",
+       "رغم الطقس منروح نتمشى."
+      ],
+      [
+       "*Während des Unterrichts* darf man nicht essen.",
+       "خلال الدرس ممنوع الأكل."
+      ],
+      [
+       "*Statt eines Autos* nehme ich den Bus.",
+       "بدل سيارة باخد الباص."
+      ],
+      [
+       "*Wegen der Prüfung* habe ich nicht geschlafen.",
+       "بسبب الامتحان ما نمت."
+      ],
+      [
+       "*Trotz der hohen Miete* bleiben wir hier.",
+       "رغم الإيجار العالي منضل هون."
+      ],
+      [
+       "*Während der Ferien* arbeitet er in einem Café.",
+       "خلال العطلة بيشتغل بكافيه."
+      ],
+      [
+       "*Innerhalb einer Woche* bekommen Sie eine Antwort.",
+       "خلال أسبوع بتاخدوا رد."
+      ],
+      [
+       "*Außerhalb der Stadt* ist es ruhiger.",
+       "برا المدينة أهدى."
+      ],
+      [
+       "*Wegen eines Streiks* fahren keine Züge.",
+       "ما في قطارات بسبب إضراب."
+      ]
+     ]
+    },
+    {
+     "t": "Wechselpräpositionen",
+     "note": "Wohin? (حركة) = Akkusativ. Wo? (مكان) = Dativ. in, an, auf, vor, hinter, neben, über, unter, zwischen.",
+     "s": [
+      [
+       "Ich lege das Buch *auf den* Tisch.",
+       "بحط الكتاب عالطاولة."
+      ],
+      [
+       "Das Buch liegt *auf dem* Tisch.",
+       "الكتاب عالطاولة."
+      ],
+      [
+       "Er hängt das Bild *an die* Wand.",
+       "بيعلّق الصورة عالحيط."
+      ],
+      [
+       "Das Bild hängt *an der* Wand.",
+       "الصورة معلقة عالحيط."
+      ],
+      [
+       "Wir gehen *in die* Stadt.",
+       "رايحين عالمدينة."
+      ],
+      [
+       "Wir sind *in der* Stadt.",
+       "نحنا بالمدينة."
+      ],
+      [
+       "Das Auto steht *vor dem* Haus.",
+       "السيارة واقفة قدام البيت."
+      ],
+      [
+       "Ich stelle den Stuhl *neben das* Fenster.",
+       "بحط الكرسي جنب الشباك."
+      ],
+      [
+       "Die Lampe hängt *über dem* Tisch.",
+       "اللمبة معلقة فوق الطاولة."
+      ],
+      [
+       "Die Katze schläft *unter dem* Bett.",
+       "القطة نايمة تحت السرير."
+      ]
+     ]
+    },
+    {
+     "t": "أفعال مع حروف جر",
+     "note": "كل فعل بيجي مع حرف جر ثابت وحالة ثابتة. احفظ الفعل مع الحرف سوا: warten auf + Akk، sich freuen über + Akk، denken an + Akk.",
+     "s": [
+      [
+       "Ich *warte auf* den Bus.",
+       "عم استنى الباص."
+      ],
+      [
+       "Ich *freue mich auf* das Wochenende.",
+       "مشتاق لنهاية الأسبوع."
+      ],
+      [
+       "Ich *freue mich über* das Geschenk.",
+       "مبسوط بالهدية."
+      ],
+      [
+       "Sie *interessiert sich für* Politik.",
+       "بتهتم بالسياسة."
+      ],
+      [
+       "Ich *denke* oft *an* meine Familie.",
+       "بفكر كتير بعيلتي."
+      ],
+      [
+       "Er *ärgert sich über* den Lärm.",
+       "عم يعصب من الضجة."
+      ],
+      [
+       "Wir *sprechen über* unsere Pläne.",
+       "عم نحكي عن خططنا."
+      ],
+      [
+       "Ich *kümmere mich um* die Kinder.",
+       "بهتم بالولاد."
+      ],
+      [
+       "Sie hat sich bei mir *für* die Hilfe *bedankt*.",
+       "شكرتني عالمساعدة."
+      ],
+      [
+       "Das *hängt von* dem Wetter *ab*.",
+       "هاد بيتعلق بالطقس."
+      ]
+     ]
+    },
+    {
+     "t": "wo(r)- و da(r)- مع حرف الجر",
+     "note": "wo(r) + حرف جر = سؤال عن شي (Worauf? Womit?). da(r) + حرف جر = جواب (darauf, damit). للأشخاص: auf wen, mit wem.",
+     "s": [
+      [
+       "*Worauf* wartest du? *Auf* den Bus.",
+       "شو عم تستنى؟ الباص."
+      ],
+      [
+       "*Wofür* interessierst du dich?",
+       "بشو بتهتم؟"
+      ],
+      [
+       "*Worüber* ärgerst du dich?",
+       "من شو معصب؟"
+      ],
+      [
+       "*Darauf* freue ich mich schon lange.",
+       "من زمان مشتاق لهاد."
+      ],
+      [
+       "*Daran* habe ich gar nicht gedacht.",
+       "ما فكرت بهاد أبداً."
+      ],
+      [
+       "*Womit* fährst du zur Arbeit?",
+       "بشو بتروح عالشغل؟"
+      ],
+      [
+       "*Damit* bin ich nicht einverstanden.",
+       "مش موافق على هاد."
+      ],
+      [
+       "*Mit wem* sprichst du?",
+       "مع مين عم تحكي؟"
+      ],
+      [
+       "*Auf wen* wartest du?",
+       "مين عم تستنى؟"
+      ],
+      [
+       "*Worauf* freust du dich am meisten?",
+       "شو أكتر شي مشتاق إله؟"
+      ]
+     ]
+    },
+    {
+     "t": "الأفعال الانعكاسية",
+     "note": "الأفعال الانعكاسية بتحتاج ضمير: mich, dich, sich, uns, euch, sich. وبالـ Dativ: mir, dir.",
+     "s": [
+      [
+       "Ich *dusche mich* jeden Morgen.",
+       "بتحمم كل صبح."
+      ],
+      [
+       "Er *rasiert sich* jeden Tag.",
+       "بيحلق كل يوم."
+      ],
+      [
+       "Wir *treffen uns* um sechs Uhr.",
+       "منتقابل الساعة ستة."
+      ],
+      [
+       "Ich *erinnere mich* gern an meine Kindheit.",
+       "بتذكر طفولتي بحب."
+      ],
+      [
+       "Sie *interessiert sich* für Kunst.",
+       "بتهتم بالفن."
+      ],
+      [
+       "Du musst *dich beeilen*.",
+       "لازم تستعجل."
+      ],
+      [
+       "Ich *setze mich* neben dich.",
+       "رح قعد جنبك."
+      ],
+      [
+       "Hast du *dir* die Hände gewaschen?",
+       "غسلت إيديك؟"
+      ],
+      [
+       "Wir *haben uns* sehr gut *unterhalten*.",
+       "قضينا وقت حلو بالحكي سوا."
+      ],
+      [
+       "Er *hat sich* den Arm *verletzt*.",
+       "أذى ذراعه."
+      ]
+     ]
+    },
+    {
+     "t": "مراجعة: الدوائر والبنك والبريد",
+     "note": "جمل بتحتاجها بالدوائر الحكومية وبالبنك وبالبريد.",
+     "s": [
+      [
+       "Ich muss mich bei der *Behörde* *anmelden*.",
+       "لازم سجّل حالي بالدائرة."
+      ],
+      [
+       "Wo kann ich ein *Formular* ausfüllen?",
+       "وين بقدر ملي استمارة؟"
+      ],
+      [
+       "Ich möchte ein *Konto* eröffnen.",
+       "بدي افتح حساب."
+      ],
+      [
+       "Haben Sie Ihren *Ausweis* dabei?",
+       "معك هويتك؟"
+      ],
+      [
+       "Ich muss ein *Paket* abholen.",
+       "لازم استلم طرد."
+      ],
+      [
+       "Der *Antrag* muss bis Freitag *abgegeben werden*.",
+       "لازم يتسلّم الطلب لحد الجمعة."
+      ],
+      [
+       "Wie lange dauert die *Bearbeitung*?",
+       "قديش بياخد وقت المعالجة؟"
+      ],
+      [
+       "Bitte bringen Sie alle *Unterlagen* mit.",
+       "رجاءً جيبو كل الأوراق معكم."
+      ],
+      [
+       "Ich habe meinen *Termin* verschoben.",
+       "أجّلت موعدي."
+      ],
+      [
+       "Dafür brauche ich eine *Bescheinigung*.",
+       "لهاد بحتاج شهادة إثبات."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "title": "الروابط والرأي",
+   "topic": "الإعلام والتكنولوجيا والبيئة",
+   "days": [
+    {
+     "t": "deshalb، deswegen، darum، daher، trotzdem",
+     "note": "هدول الكلمات بتجي بالمركز الأول، والفعل بعدها مباشرة: Deshalb bleibe ich zu Hause. (مو: deshalb ich bleibe)",
+     "s": [
+      [
+       "Es regnet, *deshalb bleibe* ich zu Hause.",
+       "عم تشتي لهيك بضل بالبيت."
+      ],
+      [
+       "Ich habe viel Arbeit, *deswegen habe* ich keine Zeit.",
+       "عندي شغل كتير لهيك ما عندي وقت."
+      ],
+      [
+       "Er ist krank, *trotzdem geht* er zur Arbeit.",
+       "مريض ومع هيك بيروح عالشغل."
+      ],
+      [
+       "Das Hotel war teuer, *trotzdem haben* wir es gebucht.",
+       "الفندق كان غالي ومع هيك حجزناه."
+      ],
+      [
+       "Ich bin müde, *darum gehe* ich früh ins Bett.",
+       "أنا تعبان فلهيك برقد بدري."
+      ],
+      [
+       "Die Wohnung ist klein, *daher suche* ich eine neue.",
+       "الشقة صغيرة فلهيك عم دور على جديدة."
+      ],
+      [
+       "Ich habe kein Auto, *deshalb fahre* ich mit dem Zug.",
+       "ما عندي سيارة لهيك بسافر بالقطار."
+      ],
+      [
+       "Sie lernt viel, *trotzdem ist* sie nervös.",
+       "بتدرس كتير ومع هيك متوترة."
+      ],
+      [
+       "Der Zug fällt aus, *deshalb müssen* wir ein Taxi nehmen.",
+       "القطار ملغي لهيك لازم ناخد تاكسي."
+      ],
+      [
+       "Es war kalt, *trotzdem sind* wir draußen geblieben.",
+       "كان برد ومع هيك ضلينا برا."
+      ]
+     ]
+    },
+    {
+     "t": "außerdem، zwar … aber، einerseits … andererseits",
+     "note": "außerdem = كمان، zwar … aber = صحيح … بس، einerseits … andererseits = من جهة … ومن جهة تانية. بعد außerdem الفعل مباشرة.",
+     "s": [
+      [
+       "Ich lerne Deutsch, und *außerdem* lerne ich Englisch.",
+       "بتعلم ألماني وكمان بتعلم إنجليزي."
+      ],
+      [
+       "Die Wohnung ist günstig, *außerdem* liegt sie zentral.",
+       "الشقة رخيصة وكمان بالمركز."
+      ],
+      [
+       "Das Auto ist *zwar* alt, *aber* es fährt gut.",
+       "السيارة قديمة بس بتمشي منيح."
+      ],
+      [
+       "Er ist *zwar* nett, *aber* ein bisschen langweilig.",
+       "لطيف بس ممل شوي."
+      ],
+      [
+       "*Einerseits* möchte ich reisen, *andererseits* muss ich sparen.",
+       "من جهة بدي سافر، ومن جهة لازم وفّر."
+      ],
+      [
+       "*Einerseits* ist die Stadt laut, *andererseits* gibt es viele Möglichkeiten.",
+       "من جهة المدينة صاخبة، ومن جهة تانية فيها فرص كتيرة."
+      ],
+      [
+       "Ich habe *zwar* wenig Geld, *aber* ich bin glücklich.",
+       "عندي مصاري قليلة بس أنا سعيد."
+      ],
+      [
+       "Das Hotel hat einen Pool, *außerdem* ist das Frühstück kostenlos.",
+       "الفندق فيه مسبح وكمان الفطور مجاني."
+      ],
+      [
+       "Fahrradfahren ist gesund, *außerdem* spart man Geld.",
+       "ركوب البسكليت صحي وكمان بيوفر مصاري."
+      ],
+      [
+       "Online-Kurse sind *einerseits* flexibel, *andererseits* fehlt der direkte Kontakt.",
+       "الكورسات أونلاين من جهة مرنة، ومن جهة تانية ينقصها التواصل المباشر."
+      ]
+     ]
+    },
+    {
+     "t": "entweder … oder، weder … noch، sowohl … als auch",
+     "note": "entweder … oder = إما … أو، weder … noch = لا … ولا، sowohl … als auch = … وكمان، nicht nur … sondern auch = مش بس … كمان.",
+     "s": [
+      [
+       "Wir fahren *entweder* mit dem Zug *oder* mit dem Bus.",
+       "منروح إما بالقطار أو بالباص."
+      ],
+      [
+       "Er hat *weder* Zeit *noch* Geld.",
+       "ما عنده لا وقت ولا مصاري."
+      ],
+      [
+       "Sie spricht *sowohl* Arabisch *als auch* Deutsch.",
+       "بتحكي عربي وألماني كمان."
+      ],
+      [
+       "Das Hotel ist *nicht nur* günstig, *sondern auch* sauber.",
+       "الفندق مش بس رخيص، كمان نضيف."
+      ],
+      [
+       "*Entweder* lernst du jetzt, *oder* du bestehst die Prüfung nicht.",
+       "يا بتدرس هلأ يا ما بتنجح بالامتحان."
+      ],
+      [
+       "Ich mag *weder* Fisch *noch* Fleisch.",
+       "ما بحب لا السمك ولا اللحمة."
+      ],
+      [
+       "Er arbeitet *nicht nur* tagsüber, *sondern auch* nachts.",
+       "بيشتغل مش بس نهاراً، كمان ليلاً."
+      ],
+      [
+       "Sie interessiert sich *sowohl* für Musik *als auch* für Sport.",
+       "بتهتم بالموسيقى وبالرياضة كمان."
+      ],
+      [
+       "Du kannst *entweder* heute *oder* morgen kommen.",
+       "بتقدر تجي إما اليوم أو بكرا."
+      ],
+      [
+       "Ich habe *weder* angerufen *noch* geschrieben.",
+       "لا اتصلت ولا كتبت."
+      ]
+     ]
+    },
+    {
+     "t": "الرأي: الموافقة والاعتراض",
+     "note": "عبارات جاهزة للـ Forumsbeitrag وللمحادثة. استخدمها كقوالب وغيّر المحتوى بس.",
+     "s": [
+      [
+       "*Meiner Meinung nach* sollte man mehr Fahrrad fahren.",
+       "برأيي المفروض الواحد يركب بسكليت أكتر."
+      ],
+      [
+       "*Ich bin der Meinung, dass* Schule wichtig *ist*.",
+       "أنا برأيي إنو المدرسة مهمة."
+      ],
+      [
+       "*Ich stimme dir zu.*",
+       "أنا موافق معك."
+      ],
+      [
+       "*Da hast du recht.*",
+       "معك حق بهاد."
+      ],
+      [
+       "*Das sehe ich anders.*",
+       "أنا بشوف هالشي بشكل مختلف."
+      ],
+      [
+       "*Ich bin nicht einverstanden*, weil das zu teuer *ist*.",
+       "مش موافق لأنو هاد غالي كتير."
+      ],
+      [
+       "*Ein Vorteil ist, dass* man flexibel arbeiten *kann*.",
+       "الميزة إنو الواحد بيقدر يشتغل بمرونة."
+      ],
+      [
+       "*Ein Nachteil ist, dass* der Kontakt zu Kollegen *fehlt*.",
+       "العيب إنو بينقص التواصل مع الزملاء."
+      ],
+      [
+       "*Ich finde die Idee gut, aber* es gibt ein Problem.",
+       "بلاقي الفكرة منيحة بس في مشكلة."
+      ],
+      [
+       "*Zum Schluss möchte ich sagen, dass* alle *profitieren*.",
+       "بالختام بدي قول إنو الكل بيستفيد."
+      ]
+     ]
+    },
+    {
+     "t": "الإعلام والتكنولوجيا",
+     "note": "مفردات وجمل عن الإنترنت والموبايل والتلفزيون، مع قواعد الأيام السابقة.",
+     "s": [
+      [
+       "Ich lese jeden Morgen die *Nachrichten* auf meinem Handy.",
+       "بقرا الأخبار كل صبح عالموبايل."
+      ],
+      [
+       "Soziale *Netzwerke* nehmen viel Zeit in Anspruch.",
+       "الشبكات الاجتماعية بتاخد وقت كتير."
+      ],
+      [
+       "Ich habe mein *Passwort* vergessen.",
+       "نسيت كلمة السر."
+      ],
+      [
+       "Man kann die App kostenlos *herunterladen*.",
+       "بتقدر تنزّل التطبيق مجاناً."
+      ],
+      [
+       "Viele Leute *vergleichen* Preise im Internet.",
+       "ناس كتير بتقارن الأسعار عالإنترنت."
+      ],
+      [
+       "Die *Werbung* im Fernsehen nervt mich.",
+       "الإعلانات بالتلفزيون بتزعجني."
+      ],
+      [
+       "Mein Handy hat keinen *Akku* mehr.",
+       "موبايلي خلصت بطاريته."
+      ],
+      [
+       "Ich schicke dir das Foto per *Nachricht*.",
+       "رح بعتلك الصورة برسالة."
+      ],
+      [
+       "Das Internet ist aus dem *Alltag* nicht mehr wegzudenken.",
+       "ما بيتصور الاستغناء عن الإنترنت بالحياة اليومية."
+      ],
+      [
+       "Ich finde, *dass* Kinder nicht zu viel Zeit am Bildschirm verbringen *sollten*.",
+       "بلاقي إنو الأولاد ما لازم يقضوا وقت كتير قدام الشاشة."
+      ]
+     ]
+    },
+    {
+     "t": "البيئة والمجتمع",
+     "note": "مفردات وجمل عن البيئة والمجتمع والتطوع، مع الجمل الفرعية.",
+     "s": [
+      [
+       "Wir sollten unseren *Müll* besser trennen.",
+       "لازم نفرز نفاياتنا أحسن."
+      ],
+      [
+       "Plastik *schadet* der *Umwelt*.",
+       "البلاستيك بيضر البيئة."
+      ],
+      [
+       "Viele Menschen fahren mit dem Rad, *damit* die Luft sauberer *wird*.",
+       "ناس كتير بتركب بسكليت لحتى الهوا يصير أنضف."
+      ],
+      [
+       "Die *Mülltrennung* ist in Deutschland sehr wichtig.",
+       "فرز النفايات مهم كتير بألمانيا."
+      ],
+      [
+       "Man sollte weniger *Strom* verbrauchen.",
+       "المفروض الواحد يستهلك كهربا أقل."
+      ],
+      [
+       "Ich kaufe lieber *nachhaltige* Produkte.",
+       "بفضل شراء منتجات مستدامة."
+      ],
+      [
+       "Das *Klima* verändert sich schnell.",
+       "المناخ عم يتغير بسرعة."
+      ],
+      [
+       "Die *Gesellschaft* braucht mehr Toleranz.",
+       "المجتمع بحاجة لتسامح أكتر."
+      ],
+      [
+       "Viele Menschen engagieren sich *ehrenamtlich*.",
+       "ناس كتير بتتطوع."
+      ],
+      [
+       "In meiner Nachbarschaft gibt es jeden Monat einen *Flohmarkt*.",
+       "بحيّنا في سوق مستعمل كل شهر."
+      ]
+     ]
+    },
+    {
+     "t": "الاقتراح والتخطيط والشكوى",
+     "note": "قوالب لـ Sprechen Teil 1 (مع شريك): اقتراح، موافقة، رفض لطيف، شكوى.",
+     "s": [
+      [
+       "*Wie wäre es*, *wenn* wir am Samstag *grillen*?",
+       "شو رأيك لو نعمل مشاوي يوم السبت؟"
+      ],
+      [
+       "*Ich schlage vor, dass* wir uns um zehn Uhr *treffen*.",
+       "بقترح نتقابل الساعة عشرة."
+      ],
+      [
+       "*Wollen wir* zusammen ins Museum *gehen*?",
+       "بدنا نروح سوا عالمتحف؟"
+      ],
+      [
+       "*Das ist eine gute Idee.*",
+       "هاي فكرة منيحة."
+      ],
+      [
+       "*Das passt mir leider nicht.*",
+       "هاد للأسف ما بيناسبني."
+      ],
+      [
+       "*Was hältst du davon, wenn* wir Pizza *bestellen*?",
+       "شو رأيك لو نطلب بيتزا؟"
+      ],
+      [
+       "*Ich möchte mich beschweren:* Das Essen war kalt.",
+       "بدي قدم شكوى: الأكل كان بارد."
+      ],
+      [
+       "*Leider* funktioniert die Heizung nicht.",
+       "للأسف التدفئة ما بتشتغل."
+      ],
+      [
+       "*Können wir* einen anderen Termin *finden*?",
+       "ممكن نلاقي موعد تاني؟"
+      ],
+      [
+       "*Einverstanden!* Dann machen wir es so.",
+       "موافقين! منعملها هيك."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "title": "قوالب وتطبيق شامل",
+   "topic": "الإيميلات والتلفون والمشاعر والهوايات",
+   "days": [
+    {
+     "t": "الإيميل غير الرسمي",
+     "note": "قوالب الإيميل لصديق: بداية، سبب الكتابة، سؤال، رفض، نهاية. بتحتاجها بـ Schreiben Teil 1.",
+     "s": [
+      [
+       "*Hallo Anna,* ich hoffe, es geht dir gut.",
+       "مرحبا آنا، بتمنى تكوني منيحة."
+      ],
+      [
+       "*Vielen Dank für deine Nachricht.*",
+       "شكراً على رسالتك."
+      ],
+      [
+       "*Ich schreibe dir, weil* ich dich zu meiner Party einladen *möchte*.",
+       "عم اكتبلك لأني بدي أعزمك عحفلتي."
+      ],
+      [
+       "*Es tut mir leid, dass* ich so lange nicht *geschrieben habe*.",
+       "آسف إني ما كتبتلك من زمان."
+      ],
+      [
+       "*Kannst du mir bitte sagen, ob* du am Samstag Zeit *hast*?",
+       "بتقدر تقلي إذا عندك وقت السبت؟"
+      ],
+      [
+       "*Ich habe eine Frage:* Kennst du ein gutes Restaurant?",
+       "عندي سؤال: بتعرف مطعم منيح؟"
+      ],
+      [
+       "*Leider kann ich nicht kommen, weil* ich arbeiten *muss*.",
+       "للأسف ما بقدر إجي لأنو لازم اشتغل."
+      ],
+      [
+       "*Ich freue mich schon sehr auf* unser Treffen.",
+       "كتير مشتاق للقاءنا."
+      ],
+      [
+       "*Schreib mir bald!*",
+       "اكتبلي قريباً!"
+      ],
+      [
+       "*Liebe Grüße und bis bald!*",
+       "تحياتي وبشوفك قريب!"
+      ]
+     ]
+    },
+    {
+     "t": "الإيميل الرسمي",
+     "note": "قوالب الإيميل الرسمي: Sehr geehrte … بالبداية، Sie بدل du، وMit freundlichen Grüßen بالنهاية. بتحتاجها بـ Schreiben Teil 3.",
+     "s": [
+      [
+       "*Sehr geehrte Damen und Herren,*",
+       "حضرات السيدات والسادة،"
+      ],
+      [
+       "*Ich schreibe Ihnen, weil* ich mich für den Kurs *interessiere*.",
+       "أكتب لكم لأني مهتم بالكورس."
+      ],
+      [
+       "*Könnten Sie mir bitte* Informationen zu den Preisen *schicken*?",
+       "ممكن ترسلولي معلومات عن الأسعار؟"
+      ],
+      [
+       "*Ich möchte mich über* die Verspätung *beschweren*.",
+       "بدي أشتكي من التأخير."
+      ],
+      [
+       "*Bitte teilen Sie mir mit, ob* noch Plätze frei *sind*.",
+       "رجاءً خبروني إذا في أماكن فاضية."
+      ],
+      [
+       "*Im Anhang finden Sie* meinen Lebenslauf.",
+       "بالمرفقات بتلاقوا سيرتي الذاتية."
+      ],
+      [
+       "*Leider muss ich* meinen Termin *absagen*.",
+       "للأسف لازم الغي موعدي."
+      ],
+      [
+       "*Ich wäre Ihnen dankbar, wenn* Sie mir bald *antworten würden*.",
+       "بكون ممنون إذا ردّيتوا عليّ قريباً."
+      ],
+      [
+       "*Vielen Dank im Voraus* für Ihre Hilfe.",
+       "شكراً مقدماً على مساعدتكم."
+      ],
+      [
+       "*Mit freundlichen Grüßen*",
+       "مع فائق الاحترام."
+      ]
+     ]
+    },
+    {
+     "t": "التلفون والمواعيد",
+     "note": "عبارات للتلفون: تعريف بنفسك، طلب شخص، حجز موعد، تأجيل، ترك رسالة.",
+     "s": [
+      [
+       "*Guten Tag, hier spricht* Ali Haddad.",
+       "يوم سعيد، معك علي حداد."
+      ],
+      [
+       "*Kann ich bitte* Frau Schmidt *sprechen*?",
+       "ممكن احكي مع السيدة شميت؟"
+      ],
+      [
+       "*Einen Moment, bitte*, ich *verbinde* Sie.",
+       "لحظة من فضلك، عم وصلك."
+      ],
+      [
+       "*Könnten Sie bitte etwas langsamer sprechen?*",
+       "ممكن تحكي أبطأ شوي؟"
+      ],
+      [
+       "Ich möchte einen *Termin vereinbaren*.",
+       "بدي احجز موعد."
+      ],
+      [
+       "*Hätten Sie* am Dienstag um zehn Uhr *Zeit*?",
+       "عندك وقت الثلاثاء الساعة عشرة؟"
+      ],
+      [
+       "Leider muss ich den Termin *verschieben*.",
+       "للأسف لازم أأجّل الموعد."
+      ],
+      [
+       "*Kann ich* eine Nachricht *hinterlassen*?",
+       "ممكن اترك رسالة؟"
+      ],
+      [
+       "Ich *rufe* später noch einmal *an*.",
+       "رح اتصل مرة تانية بعدين."
+      ],
+      [
+       "*Vielen Dank für Ihren Anruf. Auf Wiederhören!*",
+       "شكراً على اتصالك. مع السلامة!"
+      ]
+     ]
+    },
+    {
+     "t": "المشاعر والوصف",
+     "note": "صفات للمشاعر والشخصية داخل جمل كاملة. ركز على الصفة مع الفعل sein أو sich fühlen.",
+     "s": [
+      [
+       "Ich bin *nervös*, weil ich morgen eine Prüfung *habe*.",
+       "متوتر لأنو بكرا عندي امتحان."
+      ],
+      [
+       "Sie war *enttäuscht*, dass er nicht *kam*.",
+       "كانت خيبانة إنو ما إجا."
+      ],
+      [
+       "Er ist sehr *hilfsbereit* und *freundlich*.",
+       "هو كتير خدوم ولطيف."
+      ],
+      [
+       "Ich bin *stolz* auf dich.",
+       "فخور فيك."
+      ],
+      [
+       "Meine Schwester ist *ehrgeizig* und *fleißig*.",
+       "أختي طموحة ومجتهدة."
+      ],
+      [
+       "Ich habe mich über die Nachricht *gefreut*.",
+       "فرحت بالخبر."
+      ],
+      [
+       "Er ist *eifersüchtig*, weil sie viel Zeit mit Freunden *verbringt*.",
+       "بيغار لأنها بتقضي وقت كتير مع أصحابها."
+      ],
+      [
+       "Ich fühle mich hier *wohl*.",
+       "بحس حالي مرتاح هون."
+      ],
+      [
+       "Sie ist *unzufrieden* mit ihrer Arbeit.",
+       "مش راضية عن شغلها."
+      ],
+      [
+       "Wir sind alle *gespannt* auf das Ergebnis.",
+       "كلنا متشوقين للنتيجة."
+      ]
+     ]
+    },
+    {
+     "t": "الهوايات والأعياد",
+     "note": "مفردات وجمل عن وقت الفراغ والأندية والأعياد والتقاليد.",
+     "s": [
+      [
+       "In meiner Freizeit *gehe* ich gern *schwimmen*.",
+       "بوقت فراغي بحب روح اسبح."
+      ],
+      [
+       "Ich bin Mitglied in einem *Sportverein*.",
+       "أنا عضو بنادي رياضي."
+      ],
+      [
+       "Am Wochenende *treffe* ich mich oft mit Freunden.",
+       "بنهاية الأسبوع بتقابل كتير مع أصحابي."
+      ],
+      [
+       "Wir feiern *Weihnachten* mit der ganzen Familie.",
+       "منحتفل بالميلاد مع العيلة كلها."
+      ],
+      [
+       "In meiner Heimat gibt es viele *Traditionen*.",
+       "ببلدي في تقاليد كتيرة."
+      ],
+      [
+       "Zu *Geburtstagen* schenkt man oft Blumen.",
+       "بأعياد الميلاد الواحد بيهدي ورد عادة."
+      ],
+      [
+       "Das Konzert war *ausverkauft*.",
+       "الحفلة كانت مباعة بالكامل."
+      ],
+      [
+       "Ich *spiele* seit drei Jahren *Gitarre*.",
+       "بعزف جيتار من تلات سنين."
+      ],
+      [
+       "Beim *Oktoberfest* trinken viele Leute Bier.",
+       "بالأكتوبرفست ناس كتير بتشرب بيرة."
+      ],
+      [
+       "Wir haben einen *Ausflug* in die Berge *geplant*.",
+       "خططنا لرحلة عالجبال."
+      ]
+     ]
+    },
+    {
+     "t": "Partizip كصفة، lassen، الاسم من الفعل، أفعال مع Dativ",
+     "note": "Partizip كصفة: ein spannendes Buch. lassen = خلّى / عمل بواسطة غيره. الفعل كاسم: das Lernen. وأفعال بتاخد Dativ: schmecken, gehören, danken, gefallen.",
+     "s": [
+      [
+       "Das ist ein *spannendes* Buch.",
+       "هاد كتاب مشوق."
+      ],
+      [
+       "Das *geöffnete* Fenster lässt viel Lärm herein.",
+       "الشباك المفتوح عم يدخل ضجة كتير."
+      ],
+      [
+       "Ich *lasse* mein Auto *reparieren*.",
+       "عم خلي سيارتي تنصلح."
+      ],
+      [
+       "Er *lässt* sich die Haare *schneiden*.",
+       "بيقص شعره عند الحلاق."
+      ],
+      [
+       "*Das Lernen* fällt mir leicht.",
+       "الدراسة سهلة عليّ."
+      ],
+      [
+       "*Beim Kochen* höre ich Musik.",
+       "وأنا عم اطبخ بسمع موسيقى."
+      ],
+      [
+       "Das Essen *schmeckt mir* gut.",
+       "الأكل طعمه حلو عندي."
+      ],
+      [
+       "Das Buch *gehört meiner* Schwester.",
+       "الكتاب ملك أختي."
+      ],
+      [
+       "Ich *danke dir* für deine Hilfe.",
+       "بشكرك على مساعدتك."
+      ],
+      [
+       "Das Kleid *gefällt mir* sehr.",
+       "الفستان عاجبني كتير."
+      ]
+     ]
+    },
+    {
+     "t": "المراجعة الشاملة",
+     "note": "كل جملة فيها أكتر من قاعدة. إذا قدرت تقولها من الذاكرة، فأنت جاهز لمستوى B1.",
+     "s": [
+      [
+       "*Als* ich nach Deutschland *kam*, hatte ich *weder* Arbeit *noch* Wohnung.",
+       "لما إجيت لألمانيا ما كان عندي لا شغل ولا شقة."
+      ],
+      [
+       "*Wenn* ich mehr Zeit *hätte*, *würde* ich den Kurs *besuchen*, *der* mir *empfohlen wurde*.",
+       "لو عندي وقت أكتر كنت حضرت الكورس اللي انتصحت فيه."
+      ],
+      [
+       "*Obwohl* das Wetter schlecht *war*, haben wir einen Ausflug *gemacht*.",
+       "رغم إنو الطقس كان سيء عملنا رحلة."
+      ],
+      [
+       "Ich habe vergessen, dir *zu sagen*, *dass* der Kurs *verschoben wurde*.",
+       "نسيت قلك إنو الكورس انأجّل."
+      ],
+      [
+       "*Nachdem* ich *angekommen war*, habe ich meine Eltern *angerufen*, *damit* sie sich keine Sorgen *machen*.",
+       "بعد ما وصلت اتصلت بأهلي لحتى ما يخافوا."
+      ],
+      [
+       "Die Wohnung, *in der* ich *wohne*, ist *zwar* klein, *aber* sehr gemütlich.",
+       "الشقة اللي ساكن فيها صغيرة بس كتير مريحة."
+      ],
+      [
+       "*Wegen* des Streiks *wurde* der Zug *gestrichen*, *deshalb müssen* wir ein Taxi nehmen.",
+       "بسبب الإضراب انلغى القطار لهيك لازم ناخد تاكسي."
+      ],
+      [
+       "Ich *würde* gern wissen, *ob* man das Zimmer noch *buchen kann*.",
+       "بدي اعرف إذا لسا ممكن تنحجز الغرفة."
+      ],
+      [
+       "*Einerseits* ist das Leben in Deutschland teuer, *andererseits* gibt es viele Chancen.",
+       "من جهة الحياة بألمانيا غالية، ومن جهة تانية في فرص كتيرة."
+      ],
+      [
+       "Ich lerne jeden Tag zwei Stunden, *um* die Prüfung *zu* bestehen, *die* im Dezember *stattfindet*.",
+       "بدرس كل يوم ساعتين لحتى انجح بالامتحان اللي رح يصير بديسمبر."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

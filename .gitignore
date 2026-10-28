@@ -1,0 +1,20 @@
+# Node
+node_modules/
+*.log
+
+# Test output (e.g. node tests/e2e/run.mjs shots/)
+shots/
+screenshots-tmp/
+
+# Future backend: local config, database dumps, user backups
+config/*.local.*
+.env
+.env.*
+storage/backups/*
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

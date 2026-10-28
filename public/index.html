@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#0B6B53">
+<meta name="description" content="منصة عملية لتعلّم المحادثة الألمانية بمستوى B1: جمل، مراجعة متباعدة، سماع، وتحضير امتحان.">
+<title>B1 عملي</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="assets/icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="assets/icons/icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600&family=Readex+Pro:wght@500;600;700&family=Source+Serif+4:wght@500;600&display=swap">
+<link rel="stylesheet" href="assets/css/app.css">
+</head>
+<body>
+<a class="skip" href="#view">انتقل للمحتوى</a>
+<header class="top">
+  <a class="brand" href="#/"><span class="logo" aria-hidden="true">B1</span><span>عملي</span></a>
+  <nav class="nav" aria-label="التنقل الرئيسي">
+    <a href="#/" data-r=""><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3 2 11h3v9h6v-6h2v6h6v-9h3z"/></svg><span>الرئيسية</span></a>
+    <a href="#/review" data-r="review"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4V1L8 5l4 4V6a6 6 0 1 1-6 6H4a8 8 0 1 0 8-8z"/></svg><span>المراجعة</span><b id="dueBadge" class="badge" hidden></b></a>
+    <a href="#/vocab" data-r="vocab"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 4h7a3 3 0 0 1 3 3v13a2 2 0 0 0-2-2H4zm16 0h-4a3 3 0 0 0-1 .2V19a2 2 0 0 1 1-.3h4z"/></svg><span>المفردات</span></a>
+    <a href="#/exam" data-r="exam"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 2h6v2h4v18H5V4h4zm1 2v2h4V4zm-1 7v2h6v-2zm0 4v2h6v-2z"/></svg><span>الامتحان</span></a>
+    <a href="#/settings" data-r="settings"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><path d="m19.4 13 .1-1-.1-1 2.1-1.6-2-3.5-2.5 1a7 7 0 0 0-1.7-1L15 3h-4l-.4 2.7a7 7 0 0 0-1.7 1l-2.5-1-2 3.5L6.5 11l-.1 1 .1 1-2.1 1.6 2 3.5 2.5-1a7 7 0 0 0 1.7 1L11 21h4l.4-2.7a7 7 0 0 0 1.7-1l2.5 1 2-3.5zM13 15.5a3.5 3.5 0 1 1 0-7 3.5 3.5 0 0 1 0 7z"/></svg><span>الإعدادات</span></a>
+  </nav>
+</header>
+<div id="offline" class="banner" role="status" hidden>إنت أوفلاين: الدروس والمراجعة شغالين من النسخة المحفوظة. المزامنة متوقفة لحد ما يرجع الإنترنت.</div>
+<div id="update" class="banner" role="status" hidden>في نسخة جديدة من التطبيق. <button type="button" id="updateBtn" class="btn small">حدّث هلأ</button> <span class="small">(تقدّمك ما بيتأثر)</span></div>
+<main id="view" class="wrap" tabindex="-1"><p class="loading">عم نحمّل الدروس…</p></main>
+<div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+<script src="assets/js/srs.js"></script>
+<script src="assets/js/text.js"></script>
+<script src="assets/js/store.js"></script>
+<script src="assets/js/validate.js"></script>
+<script src="assets/js/speech.js"></script>
+<script src="assets/js/app-core.js"></script>
+<script src="assets/js/app-lesson.js"></script>
+<script src="assets/js/app-review.js"></script>
+<script src="assets/js/app-exam.js"></script>
+<script src="assets/js/pwa.js"></script>
+<script>App.boot();</script>
+</body>
+</html>
